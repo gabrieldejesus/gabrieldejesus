@@ -1,3 +1,5 @@
+![](cover.png)
+
 ## Hi, I'm Gabriel de Jesus. Nice to meet you. 👋🏾
 
 *I create successful websites and systems on the web, fast, simple and easy to use. I just love what I do.❤️*
