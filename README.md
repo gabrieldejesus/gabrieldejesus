@@ -12,7 +12,7 @@ Things I like to do:
 - 📱 Applications
 
 About me:
-- 🔭 I'm currently unemployed
+- 🔭 I'm currently employed
 - 🌱 I am currently learning JavaScript, React and NodeJS
 - 👯 I'm looking to collaborate on social impact projects
 - 🤔 I’m looking for helping people who are starting in programming
