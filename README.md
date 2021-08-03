@@ -23,7 +23,7 @@ About me:
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
-- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/gabrieldejesuss), [My Portfolio](https://www.gabrieldesenvolvedor.com), [My E-mail](devgabrieldejesus@gmail.com)
+- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/gabrieldejesuss), [My Portfolio](gabrieldejesus.dev), [My E-mail](devgabrieldejesus@gmail.com)
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
 ---
