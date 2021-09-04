@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gabrieldesenvolvedor.com/">
+  <a href="gabrieldejesus.dev">
     <img src="https://i.ibb.co/x1h99Ws/cover.png" alt="cover" title="Gabriel de Jesus" border="0">
   </a>
 </p>
@@ -23,7 +23,7 @@ About me:
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
-- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/gabrieldejesuss), [My Portfolio](http://gabrieldejesus.dev), [My E-mail](devgabrieldejesus@gmail.com)
+- 📫 How to contact me: [My Linkedin](https://www.linkedin.com/in/gabrieldejesuss), [My Portfolio](http://gabrieldejesus.dev), [My E-mail](hey@gabrieldejesus.dev)
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
 ---
