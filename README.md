@@ -8,7 +8,7 @@
 
 *I am a Front-end programmer and a student of Back-end programming. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️*
 
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true)
+<!-- ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true) -->
 
 Things I like to do:
 
