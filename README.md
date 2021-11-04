@@ -18,7 +18,6 @@ Things I like to do:
 
 About me:
 
-- 🔭 I am currently working at Rocketseat as a software developer
 - 🌱 I'm currently learning Three.js and WebGL
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
