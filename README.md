@@ -4,7 +4,7 @@
   </a>
 </p>
 
-## Hi, I'm Gabriel de Jesus. Nice to meet you. 👋🏾
+# Hi, I'm Gabriel de Jesus. Nice to meet you. 👋🏾
 
 *I am a Front-end programmer. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️*
 
