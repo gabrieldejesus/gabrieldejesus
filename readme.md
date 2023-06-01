@@ -18,7 +18,7 @@ Things I like to do:
 
 About me:
 
-- 🌱 I'm currently learning Three.js and WebGL
+- 🌱 I'm currently learning Three.js, WebGL, Rust and WebAssembly
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
 - 💬 Ask me about anything, but know that I'm passionate about technology
