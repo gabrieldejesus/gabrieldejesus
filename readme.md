@@ -1,14 +1,6 @@
-<p align="center">
-  <a href="gabrieldejesus.dev">
-    <img src="https://i.ibb.co/x1h99Ws/cover.png" alt="cover" title="Gabriel de Jesus" border="0">
-  </a>
-</p>
+# Nice to meet you. 👋🏾
 
-# Hi, I'm Gabriel de Jesus. Nice to meet you. 👋🏾
-
-*I am a Front-end developer && Creative developer. I have a great passion for user interface effects, animations and the creation of intuitive and dynamic user experiences. I just love what I do.❤️*
-
-<!-- ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true) -->
+*I'm a passionate Front-end and Creative Developer who loves building and transforming web applications. I drive fantastic initiatives and positively impact people through experiences.*
 
 Things I like to do:
 
@@ -26,3 +18,5 @@ About me:
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
 ---
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true)
