@@ -19,10 +19,10 @@ About me:
 
 42 School - Study projects:
 
-| Circle 00                                           | Circle 01 | Circle 02 | Circle 03                                                           |
-| --------------------------------------------------- | --------- | --------- | ------------------------------------------------------------------- |
-| [Libft](https://github.com/gabrieldejesus/42-Libft) |           |           | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
-|                                                     |           |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
+| Circle 00                                                   | Circle 01 | Circle 02 | Circle 03                                                           |
+| ----------------------------------------------------------- | --------- | --------- | ------------------------------------------------------------------- |
+| [Libft](https://github.com/gabrieldejesus/42-Libft)         |           |           | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
+| [ft_printf](https://github.com/gabrieldejesus/42-ft_printf) |           |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
   
 ---
 
