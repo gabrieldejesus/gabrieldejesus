@@ -17,6 +17,12 @@ About me:
 - 📫 How to contact me: [Portfólio](http://gabrieldejesus.dev) and hi@gabrieldejesus.dev
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
+42 School - Study projects:
+
+- [Libft](https://github.com/gabrieldejesus/42-Libft)
+- [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00)
+- [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01)
+  
 ---
 
 ![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true)
