@@ -25,5 +25,3 @@ About me:
 | [ft_printf](https://github.com/gabrieldejesus/42-ft_printf) |           |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
   
 ---
-
-![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrieldejesus&show_icons=true&hide_border=true)
