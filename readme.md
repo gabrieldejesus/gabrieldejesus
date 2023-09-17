@@ -17,7 +17,7 @@ About me:
 - 📫 How to contact me: [Portfólio](http://gabrieldejesus.dev) and hi@gabrieldejesus.dev
 - ⚡ Curiosity: I am silently confident, curious by nature and always working to face all the challenges that lie ahead.
 
-42 School - Study projects:
+42 School - Studies projects:
 
 | Circle 00                                                   | Circle 01 | Circle 02 | Circle 03                                                           |
 | ----------------------------------------------------------- | --------- | --------- | ------------------------------------------------------------------- |
