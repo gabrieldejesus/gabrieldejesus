@@ -7,7 +7,7 @@ Things I like to do:
 - ⚙️ System applications
 - 🖥 Web Applications
 - 📱 Mobile Applications
-- 🎨 Interfaces
+- 🎨 Interface design
 
 About me:
 
