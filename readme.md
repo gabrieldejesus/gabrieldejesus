@@ -4,9 +4,10 @@
 
 Things I like to do:
 
+- ⚙️ System applications
 - 🖥 Web Applications
-- 🎨 Interfaces
 - 📱 Applications
+- 🎨 Interfaces
 
 About me:
 
