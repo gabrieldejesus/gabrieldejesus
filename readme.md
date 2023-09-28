@@ -20,11 +20,10 @@ About me:
 
 42 School - Studies projects:
 
-| Circle 00                                                           | Circle 01 | Circle 02 | Circle 03                                                           |
-| ------------------------------------------------------------------- | --------- | --------- | ------------------------------------------------------------------- |
-| [Libft](https://github.com/gabrieldejesus/42-Libft)                 |           |           | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
-| [ft_printf](https://github.com/gabrieldejesus/42-ft_printf)         |           |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
-| [get_next_line](https://github.com/gabrieldejesus/42-get_next_line) |           |           |                                                                     |
-| Born2beroot                                                         |           |           |                                                                     |
-| [fract-ol](https://github.com/gabrieldejesus/42-fract-ol)           |           |           |                                                                     |
+| Circle 00                                                           | Circle 01                                                         | Circle 02 | Circle 03                                                           |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- | --------- | ------------------------------------------------------------------- |
+| [Libft](https://github.com/gabrieldejesus/42-Libft)                 | [fract-ol](https://github.com/gabrieldejesus/42-fract-ol)         |           | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
+| [ft_printf](https://github.com/gabrieldejesus/42-ft_printf)         | [minitalk](https://github.com/gabrieldejesus/42-minitalk)         |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
+| [get_next_line](https://github.com/gabrieldejesus/42-get_next_line) | [push_swap](https://github.com/gabrieldejesus/42-push_swap)       |           |                                                                     |
+| Born2beroot                                                         | [Exam Rank 02](https://github.com/gabrieldejesus/42-Exam_Rank_02) |           |                                                                     |
 ---
