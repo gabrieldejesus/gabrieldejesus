@@ -25,5 +25,5 @@ About me:
 | [Libft](https://github.com/gabrieldejesus/42-Libft)                 | [fract-ol](https://github.com/gabrieldejesus/42-fract-ol)         |           | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
 | [ft_printf](https://github.com/gabrieldejesus/42-ft_printf)         | [minitalk](https://github.com/gabrieldejesus/42-minitalk)         |           | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
 | [get_next_line](https://github.com/gabrieldejesus/42-get_next_line) |                                                                   |           |                                                                     |
-| Born2beroot                                                         |                                                                   |           |                                                                     |
+| Born2beroot                                                         | Exam Rank 02                                                      |           |                                                                     |
 ---
