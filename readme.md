@@ -20,10 +20,15 @@ About me:
 
 42 School - Studies projects:
 
-| Circle 00                                                           | Circle 01                                                         | Circle 02      | Circle 03                                                           |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------- | ------------------------------------------------------------------- |
-| [Libft](https://github.com/gabrieldejesus/42-Libft)                 | [fract-ol](https://github.com/gabrieldejesus/42-fract-ol)         | Coming soon... | [CPP Module 00](https://github.com/gabrieldejesus/42-cpp-module-00) |
-| [ft_printf](https://github.com/gabrieldejesus/42-ft_printf)         | [minitalk](https://github.com/gabrieldejesus/42-minitalk)         | Coming soon... | [CPP Module 01](https://github.com/gabrieldejesus/42-cpp-module-01) |
-| [get_next_line](https://github.com/gabrieldejesus/42-get_next_line) | Coming soon...                                                    | Coming soon... | Coming soon...                                                      |
-| Coming soon...                                                      | Coming soon...                                                    | Coming soon... | Coming soon...                                                      |
+| Circle 00                                           | Circle 01                                                           | Circle 02                                                 | Circle 03      | Circle 04      | Circle 05      | Circle 06      |
+| --------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------- | -------------- | -------------- | -------------- | -------------- |
+| [Libft](https://github.com/gabrieldejesus/42-Libft) | [ft_printf](https://github.com/gabrieldejesus/42-ft_printf)         | [fract-ol](https://github.com/gabrieldejesus/42-fract-ol) | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+|                                                     | [get_next_line](https://github.com/gabrieldejesus/42-get_next_line) | [minitalk](https://github.com/gabrieldejesus/42-minitalk) | Coming soon... | Coming soon... | Coming soon... | Coming soon... |
+|                                                     | Coming soon...                                                      | Coming soon...                                            | Coming soon... | Coming soon... | Coming soon... |
+|                                                     |                                                                     | Coming soon...                                            |                | Coming soon... | Coming soon... |
+|                                                     |                                                                     |                                                           |                | Coming soon... | Coming soon... |
+|                                                     |                                                                     |                                                           |                | Coming soon... | Coming soon... |
+|                                                     |                                                                     |                                                           |                | Coming soon... | Coming soon... |
+|                                                     |                                                                     |                                                           |                | Coming soon... | Coming soon... |
+
 ---
