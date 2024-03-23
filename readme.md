@@ -4,11 +4,11 @@
 
 Things I like to do:
 
-- ⚙️ System applications
+- ✨ Creative Code
 - 🌍 Web Applications
+- ⚙️ System applications
 - 🖥 Desktop Applications
 - 📱 Mobile Applications
-- 🎨 Interface design
 
 About me:
 
