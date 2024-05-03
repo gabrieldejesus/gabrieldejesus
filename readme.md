@@ -7,8 +7,8 @@ Things I like to do:
 - ✨ Creative Code
 - 🌍 Web Applications
 - ⚙️ System applications
-- 🖥 Desktop Applications
 - 📱 Mobile Applications
+- 🖥 Desktop Applications
 
 About me:
 
