@@ -1,20 +1,15 @@
 # Nice to meet you. 👋🏾
 
-*I'm a passionate Front-end and Creative Developer who loves building and transforming web applications. I drive fantastic initiatives and positively impact people through experiences.*
+*I'm a software engineer working at the intersection of technology, design, and creativity. I build web, mobile, and desktop applications, with a focus on open source and clean, thoughtful solutions.*
 
-Things I like to do:
+**What I work with:**
+- 🌍 Web Applications · ⚙️ Systems · 📱 Mobile · 🖥 Desktop
+- ✨ Creative Code & interactive experiences
 
-- ✨ Creative Code
-- 🌍 Web Applications
-- ⚙️ System applications
-- 📱 Mobile Applications
-- 🖥 Desktop Applications
-
-About me:
-
-- 🌱 I'm currently learning Three.js, WebGL, Rust, and WebAssembly
-- ✊🏽 I try to collaborate on social impact projects
-- 💡 I try to help people who are starting in programming
-- 💬 Ask me about anything, but know that I'm passionate about technology
-- 📫 How to contact me: [Portfólio](http://gabrieldejesus.dev) and hi@gabrieldejesus.dev
-- ⚡ Curiosity: I am silently confident, curious by nature, and always working to face all the challenges that lie ahead.
+**About me:**
+- 🌱 Currently going deep on Three.js, WebGL, and WebAssembly
+- ✊🏽 I contribute to social-impact projects
+- 💡 I mentor people who are getting started in programming
+- 💬 Happy to talk about anything tech — it's what I'm passionate about
+- 📫 Reach me: [Portfolio](http://gabrieldejesus.dev) · hi@gabrieldejesus.dev
+- ⚡ Curious by nature, quietly confident, and always chasing the next challenge.
