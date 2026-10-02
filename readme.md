@@ -4,7 +4,7 @@ I'm Gabriel de Jesus, an AI Engineer and Creative Technologist based in Lisbon a
 
 ## A few things I've worked on
 
-- [Telfar](https://gabrieldejesus.dev/projects/telfar): platform work recognized with a Webby Award
+- [Telfar](https://gabrieldejesus.dev/projects/telfar): led frontend and Shopify/CMS implementation for Telfar e-commerce platform, with Shopify, CMS integration, and smooth product flows.
 - [Sinaliza AI](https://gabrieldejesus.dev/projects/sinaliza-ai): an AI-powered app for translating Libras into text and audio, and spoken or typed language back into Libras
 - [A Maior Torcida do Mundo](https://gabrieldejesus.dev/projects/adidas-and-flamengo): a real-time fan platform for Adidas and Flamengo, with live check-ins, a fan map, moderation, and analytics
 - [Banco BV](https://gabrieldejesus.dev/projects/banco-bv): smart installations, AI-powered accessibility, and real-time audience engagement
