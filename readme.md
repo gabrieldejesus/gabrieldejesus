@@ -1,15 +1,19 @@
 # Nice to meet you. 👋🏾
 
-*I'm a software engineer working at the intersection of technology, design, and creativity. I build web, mobile, and desktop applications, with a focus on open source and clean, thoughtful solutions.*
+I'm Gabriel de Jesus, an AI Engineer and Creative Technologist based in Lisbon and often in Amsterdam. Over the past 8+ years, I've built products for startups, agencies, and global brands, moving between interfaces, product features, custom tools, practical AI systems, automation, creative technology, and workflows that help teams move with less friction.
 
-**What I work with:**
-- 🌍 Web Applications · ⚙️ Systems · 📱 Mobile · 🖥 Desktop
-- ✨ Creative Code & interactive experiences
+## A few things I've worked on
 
-**About me:**
-- 🌱 Currently going deep on Three.js, WebGL, and WebAssembly
-- ✊🏽 I contribute to social-impact projects
-- 💡 I mentor people who are getting started in programming
-- 💬 Happy to talk about anything tech — it's what I'm passionate about
-- 📫 Reach me: [Portfolio](http://gabrieldejesus.dev) · hi@gabrieldejesus.dev
-- ⚡ Curious by nature, quietly confident, and always chasing the next challenge.
+- [Telfar](https://gabrieldejesus.dev/projects/telfar): platform work recognized with a Webby Award
+- [Sinaliza AI](https://gabrieldejesus.dev/projects/sinaliza-ai): an AI-powered app for translating Libras into text and audio, and spoken or typed language back into Libras
+- [A Maior Torcida do Mundo](https://gabrieldejesus.dev/projects/adidas-and-flamengo): a real-time fan platform for Adidas and Flamengo, with live check-ins, a fan map, moderation, and analytics
+- [Banco BV](https://gabrieldejesus.dev/projects/banco-bv): smart installations, AI-powered accessibility, and real-time audience engagement
+
+## What I work with
+
+- 🤖 Practical AI systems, custom tools, and automation
+- 🌍 TypeScript, React, Next.js, Node.js, real-time systems, and edge infrastructure
+- ✨ Three.js, WebGL, WebAssembly, creative code, and interactive experiences
+- ✊🏽 Social-impact projects, accessibility, mentoring, and community work
+
+📫 Reach me: [gabrieldejesus.dev](https://gabrieldejesus.dev) · [hi@gabrieldejesus.dev](mailto:hi@gabrieldejesus.dev)
